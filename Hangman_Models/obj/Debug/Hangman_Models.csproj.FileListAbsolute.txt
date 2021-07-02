@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\Hangman\Hangman_Models\obj\Debug\Hangman_Models.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\Hangman\Hangman_Models\obj\Debug\Hangman_Models.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\Hangman\Hangman_Models\bin\Debug\Hangman_Models.dll
+C:\ElevenFiftyProjects\Hangman\Hangman_Models\bin\Debug\Hangman_Models.pdb
+C:\ElevenFiftyProjects\Hangman\Hangman_Models\obj\Debug\Hangman_Models.dll
+C:\ElevenFiftyProjects\Hangman\Hangman_Models\obj\Debug\Hangman_Models.pdb

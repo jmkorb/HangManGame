@@ -1,0 +1,2 @@
+C:\ElevenFiftyProjects\Hangman\Hangman_Repos\obj\Debug\Hangman_Repos.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\Hangman\Hangman_Repos\obj\Debug\Hangman_Repos.csproj.CoreCompileInputs.cache
